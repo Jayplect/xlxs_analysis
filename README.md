@@ -7,6 +7,9 @@ To receive funding, the project must meet or exceed an initial goal. In this cha
 ### Built with 
 •	Pivot table
 
+![image](https://user-images.githubusercontent.com/107348074/230495110-ba0d3b23-533f-4297-8f4f-e7b28774fa44.png)
+
+
 ### Conclusions
 a.)	Theatre, film & video and music category were the most successfully funded project. They also stand a high chance of failing and being cancelled. On the other hand, journalism was the least successful category. In fact, all campaigns under journalism were cancelled.
 
